@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HttpListenerSync/001_HttpListenerSync.csproj" />
+  <Project Path="HttpListenerAsync/002_HttpListenerAsync.csproj" />
+</Solution>
